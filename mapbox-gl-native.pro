@@ -405,8 +405,6 @@ HEADERS += \
     platform/qt/src/timer_impl.hpp \
 
 INCLUDEPATH += \
-    deps/boost/1.65.1 \
-    deps/boost/1.65.1/include \
     deps/earcut/0.12.4 \
     deps/earcut/0.12.4/include \
     deps/geojson/0.4.2 \
